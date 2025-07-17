@@ -14,6 +14,9 @@ To link to another note, you can use multiple syntaxes. The following four use t
 - Using the note's filename: [[cats]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
 - Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+- I also just added another link here in this bullet point, and to add a link to my first post, since it is floating out in space a bit. 
+[[cats|link to the note about cats using the note's filename]]
+[[My First Blog Post|This is my first post that I added]]
 
 You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
 
