@@ -17,6 +17,7 @@ To link to another note, you can use multiple syntaxes. The following four use t
 - I also just added another link here in this bullet point, and to add a link to my first post, since it is floating out in space a bit. 
 [[cats|link to the note about cats using the note's filename]]
 [[My First Blog Post|This is my first post that I added]]
+[[My Second Blog Post|This is the second post I am adding here, will probably need to clean house.]]
 
 You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
 

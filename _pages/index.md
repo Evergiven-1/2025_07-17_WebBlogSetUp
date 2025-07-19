@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: var(--color-box-background, #2d2d2d); border-radius: 4px; color: var(--color-text,rgb(177, 142, 96));">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
