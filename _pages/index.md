@@ -15,6 +15,17 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
+>I figured this would be good place to put this:
+
+Working Colorschemes:
+><span style="background-color: rgb(0,0,0); color: rgb(235, 226, 215); padding: 2px 8px;">BLACK BACKGROUND | RGB (0,0,0)</span>
+
+><span style="color: rgb(235, 226, 215);">MAIN TEXT FONT | RGB (235, 226, 215)</span>
+
+><span style="color: rgb(16, 35, 57);">LINK TEXT FONT | RGB (16, 35, 57)</span>
+
+<span style="font-size: 8px;">Other studies in the assets folder</span>
+
 <strong>Recently updated notes</strong>
 
 <ul>

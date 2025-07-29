@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-28-my-4th-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_notes\\2025-07-28-my-4th-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-20-my-3rd-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_notes\\2025-07-20-my-3rd-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-18-my-2nd-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_notes\\2025-07-18-my-2nd-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2025-07-20-my-3rd-post.md",
+              "DocumentMoniker": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-20-my-3rd-post.md",
+              "RelativeDocumentMoniker": "_notes\\2025-07-20-my-3rd-post.md",
+              "ToolTip": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-20-my-3rd-post.md",
+              "RelativeToolTip": "_notes\\2025-07-20-my-3rd-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T15:19:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\index.md",
+              "RelativeDocumentMoniker": "_pages\\index.md",
+              "ToolTip": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\index.md",
+              "RelativeToolTip": "_pages\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T14:46:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.md",
+              "DocumentMoniker": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\about.md",
+              "RelativeDocumentMoniker": "_pages\\about.md",
+              "ToolTip": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_pages\\about.md",
+              "RelativeToolTip": "_pages\\about.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T14:46:12.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2025-07-18-my-2nd-post.md",
+              "DocumentMoniker": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-18-my-2nd-post.md",
+              "RelativeDocumentMoniker": "_notes\\2025-07-18-my-2nd-post.md",
+              "ToolTip": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-18-my-2nd-post.md",
+              "RelativeToolTip": "_notes\\2025-07-18-my-2nd-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T14:44:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2025-07-28-my-4th-post.md",
+              "DocumentMoniker": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-28-my-4th-post.md",
+              "RelativeDocumentMoniker": "_notes\\2025-07-28-my-4th-post.md",
+              "ToolTip": "C:\\Users\\aaliaj\\Desktop\\00_Blogging\\Websites\\2025_07-17_WebBlogSetUp\\_notes\\2025-07-28-my-4th-post.md",
+              "RelativeToolTip": "_notes\\2025-07-28-my-4th-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T14:39:45.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
